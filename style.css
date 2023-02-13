@@ -1,0 +1,15 @@
+h1{
+	font-size: 30px;
+	text-align: center;
+	color: #112A46
+}
+
+p{
+	font-size: 15px;
+	text-align: left;
+	font-family: Times, math;
+}
+
+body {
+	background-color: #E6C9E3;
+}
